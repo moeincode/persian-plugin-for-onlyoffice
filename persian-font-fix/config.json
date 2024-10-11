@@ -1,0 +1,13 @@
+{
+    "name": "Persian Font Fix",
+    "guid": "persian-font-fix",
+    "variations": [
+      {
+        "id": "desktop",
+        "init_data": {
+          "url": "./index.html"
+        }
+      }
+    ]
+  }
+  
